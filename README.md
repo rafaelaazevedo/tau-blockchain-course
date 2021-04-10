@@ -4,7 +4,7 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/rafaelaazevedo/tau-blockchain-course/badge.svg?targetFile=package.json)](https://snyk.io/test/github/rafaelaazevedo/tau-blockchain-course?targetFile=package.json)
 
-# Ethereum Blockchain Project for the Test Automation University course
+# Ethereum Blockchain Project (Test Automation University)
 
 <br>
 <br>
