@@ -101,4 +101,7 @@ dist
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-por
+
+# MacOS Op System
+.DS_Store
