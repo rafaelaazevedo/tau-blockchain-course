@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "picture": "images/santos.jpg",
+    "location": "Santos",
+    "country": "Brazil",
+    "currency": "Brazilian Real (R$)",
+    "flag": "🇧🇷"
+  },
+  {
+    "id": 1,
+    "picture": "images/london.jpg",
+    "location": "London",
+    "country": "UK",
+    "currency": "Pound Sterling (£)",
+    "flag": "🇬🇧"
+  },
+  {
+    "id": 2,
+    "picture": "images/tatra.jpg",
+    "location": "Tatra National Park",
+    "country": "Poland",
+    "currency": "Polish złoty (zł)",
+    "flag": "🇵🇱"
+  },
+  {
+    "id": 3,
+    "picture": "images/california.jpg",
+    "location": "California",
+    "country": "USA",
+    "currency": "United States Dollar ($)",
+    "flag": "🇺🇸"
+  },
+  {
+    "id": 4,
+    "picture": "images/bordeaux.jpg",
+    "location": "Bordeaux",
+    "country": "France",
+    "currency": "Euro (€)",
+    "flag": "🇫🇷"
+  },
+  {
+    "id": 5,
+    "picture": "images/machu.jpg",
+    "location": "Machu Picchu",
+    "country": "Peru",
+    "currency": "Sol (S/)",
+    "flag": "🇵🇪"
+  },
+  {
+    "id": 6,
+    "picture": "images/sydney.jpg",
+    "location": "Sydney",
+    "country": "Australia",
+    "currency": "Australian Dollar ($)",
+    "flag": "🇦🇺"
+  },
+  {
+    "id": 7,
+    "picture": "images/fernando.jpg",
+    "location": "Fernando de Noronha",
+    "country": "Brazil",
+    "currency": "Brazilian Real (R$)",
+    "flag": "🇧🇷"
+  },
+  {
+    "id": 8,
+    "picture": "images/lafortuna.jpg",
+    "location": "La Fortuna Waterfall",
+    "country": "Costa Rica",
+    "currency": "Costa Rican Colón (₡)",
+    "flag": "🇨🇷"
+  },
+  {
+    "id": 9,
+    "picture": "images/bukit.jpg",
+    "location": "Bukit Timah Nature Reserve",
+    "country": "Singapore",
+    "currency": "Singapore Dollar (S$)",
+    "flag": "🇸🇬"
+  },
+  {
+    "id": 10,
+    "picture": "images/capetown.jpg",
+    "location": "Cape Town",
+    "country": "South Africa",
+    "currency": "South African Rand (R)",
+    "flag": "🇿🇦"
+  },
+  {
+    "id": 11,
+    "picture": "images/amsterdam.jpg",
+    "location": "Amsterdam",
+    "country": "Netherlands",
+    "currency": "Euro (€)",
+    "flag": "🇳🇱"
+  },
+  {
+    "id": 12,
+    "picture": "images/bali.jpg",
+    "location": "Bali",
+    "country": "Indonesia",
+    "currency": "Indonesian Rupiah (Rp)",
+    "flag": "🇮🇩"
+  },
+  {
+    "id": 13,
+    "picture": "images/ny.jpg",
+    "location": "New York",
+    "country": "USA",
+    "currency": "United States Dollar ($)",
+    "flag": "🇺🇸"
+  },
+  {
+    "id": 14,
+    "picture": "images/azores.jpg",
+    "location": "Azores",
+    "country": "Portugal",
+    "currency": "Euro (€)",
+    "flag": "🇵🇹"
+  },
+  {
+    "id": 15,
+    "picture": "images/tokyo.jpg",
+    "location": "Tokyo",
+    "country": "Japan",
+    "currency": "Japanese Yen (¥)",
+    "flag": "🇯🇵"
+  }
+]
