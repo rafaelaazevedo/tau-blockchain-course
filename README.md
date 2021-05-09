@@ -1,5 +1,3 @@
-[![Code Quality Scores](https://www.code-inspector.com/project/21134/score/svg)](https://frontend.code-inspector.com/project/21134/dashboard)
-
 [![Code Quality Grade](https://www.code-inspector.com/project/21134/status/svg)](https://frontend.code-inspector.com/project/21134/dashboard)
 
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/rafaelaazevedo/tau-blockchain-course/blob/master/LICENSE)
@@ -10,7 +8,6 @@
 
 A simple Blockchain project developing ethereum smart contracts and tests for a survey website.
 
-<br>
 <br>
 
 ## Run local development
